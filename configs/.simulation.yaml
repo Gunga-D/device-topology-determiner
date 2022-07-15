@@ -1,0 +1,18 @@
+stop_time: 10
+receiver:
+  device:
+    device_position_x: 0
+    device_position_y: 0
+    volume_equalizers_number: 4
+    volume_equalizers_distance: 6
+  volume_equalizer:
+    ports_number: 10
+    ports_distance: 3
+process:
+  end_point_x: 0
+  end_point_y: 0 
+  distance: 15
+  angle: -45
+  pressure_amplitude: 3
+  pressure_frequency: 20
+  ambient_temperature: 0
